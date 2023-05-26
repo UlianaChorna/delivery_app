@@ -1,0 +1,27 @@
+
+.shopping-page{
+    display: flex;
+
+    
+}
+.shopping-list{
+    margin: 0px 50px;
+    padding: 10px;
+    width: 800px;
+}
+.btn-shop{
+    background-color: lightslategrey;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px;
+    height: 30px;
+}
+.name-order{
+    display: flex;
+}
+.img-fluid {
+    width: 100px;
+}
+h5{
+    padding: 20px 0px;
+}
