@@ -1,6 +1,6 @@
 const router = require('express').Router();
-const UserCartSchema = require('../models/userCart');
-const ProductCartSchema = require('../models/productCart');
+const UserCartSchema = require('../../models/userCart');
+const ProductCartSchema = require('../../models/productCart');
 
 
 
