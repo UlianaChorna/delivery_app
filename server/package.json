@@ -2,7 +2,7 @@
   "name": "api",
   "version": "1.0.0",
   "description": "",
-  "main": "shop.js",
+  "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
