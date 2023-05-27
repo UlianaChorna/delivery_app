@@ -44,5 +44,8 @@
     ]
   },
   
-  "proxy": "https://delivery-app-server-cob6.onrender.com/api/"
+  "proxy": "https://delivery-app-server-cob6.onrender.com/api/",
+  "allowedHosts": [
+    "127.0.0.1", "0.0.0.0"
+  ]
 }
